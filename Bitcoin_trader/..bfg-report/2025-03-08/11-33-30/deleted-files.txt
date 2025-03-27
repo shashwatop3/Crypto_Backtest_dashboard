@@ -1,0 +1,3 @@
+cda71f75b957516e029a2cf9af2dfd34e401b99c 63167645 btcusd_15min_preprcd.parquet
+74bc23c8797495f4141e045fddd90fffdba67aaa 48339669 btcusd_15min_preprcd.parquet
+1d4bad7f57c8dd2734fbc65f6307bb1d2ca291e6 133 btcusd_15min_preprcd.parquet

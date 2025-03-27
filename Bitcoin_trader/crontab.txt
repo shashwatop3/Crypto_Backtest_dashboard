@@ -1,0 +1,1 @@
+*/1* * * * * /usr/local/bin/python3 /app/run_data_updater.sh
