@@ -17,7 +17,7 @@ pnpm dev
 # or
 bun dev
 ```
-Then go into Bitcoin_trader directory and Run the docker file, set port to 8000
+### Then go into Bitcoin_trader directory and Run the docker file, set port to 8000
 
 
 
